@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋 I'm Mariem!
+
+A web developer from France with a background in research and English literature. I am currently on an apprenticeship to become a designer developer. 
+
+- 🌱 I’m currently learning PHP, Java. 
 
 <!--
 **Mariem-K/Mariem-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
